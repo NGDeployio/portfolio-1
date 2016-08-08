@@ -1,0 +1,51 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+.nav-pills {
+  font-size: 1.7em;
+}
+.pageOne {
+  background-image: url("https://hd.unsplash.com/photo-1456428199391-a3b1cb5e93ab");
+  background-size: cover;
+  height: 100vh;
+  /* to align text to center*/
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+h1 {
+  font-size: 4em;
+}
+h4 {
+  font-size: 1.5em;
+}
+.btnList {
+  margin-top: 1em;
+}
+.btn-default {
+  margin-right: 0.7em;
+}
+/*
+  PAGE TWO
+*/
+.pageTwo {
+  background-image: url("https://hd.unsplash.com/photo-1429032021766-c6a53949594f");
+  background-size: cover;
+  height: 100vh;
+  padding: 5em;
+}
+.info {
+  font-size: 2em;
+  padding: 2em;
+}
+.dp {
+  padding: 5.93em;
+  opacity: 0.93;
+}
+.skills {
+  border: 1px solid black;
+  padding: 1em;
+  font-weight: bolder;
+}
